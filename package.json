@@ -1,0 +1,14 @@
+{
+  "name": "usvds2",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "USVDS clean-room domain and workflow foundation",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --test"
+  }
+}
